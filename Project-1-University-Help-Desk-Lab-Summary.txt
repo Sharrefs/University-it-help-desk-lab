@@ -1,0 +1,44 @@
+PROJECT: University IT Help Desk Lab
+
+Objective:
+Simulate the workflow of a Tier 1 university IT help desk technician.
+
+Environment:
+Primary computer: Mac mini M4
+Memory: 16 GB
+Storage: 256 GB
+
+Scenario:
+A student reported being unable to access the university student portal and initially believed the problem was related to Wi-Fi.
+
+Troubleshooting Performed:
+- Verified the Wi-Fi network interface.
+- Verified that the computer had an IP address.
+- Verified that a default gateway was present.
+- Tested connectivity to the local gateway using ping.
+- Tested Internet connectivity using ping.
+- Tested DNS resolution using nslookup.
+- Gathered additional information from the user.
+- Determined that multiple students and devices were affected.
+- Determined that the main university website remained accessible.
+
+Diagnosis:
+The student's computer and basic network connection were functioning normally. Evidence indicated a potential university student portal service outage.
+
+Resolution:
+The issue was escalated to the university IT application/services team. The team identified and resolved an issue with the student portal application server.
+
+Verification:
+The student confirmed that the portal was accessible again and that they could successfully log in and view their classes.
+
+Skills Practiced:
+- IT troubleshooting
+- Network troubleshooting
+- Ping
+- DNS troubleshooting
+- User questioning and information gathering
+- Problem isolation
+- Ticket documentation
+- Escalation
+- Knowledge-base documentation
+- Resolution verification

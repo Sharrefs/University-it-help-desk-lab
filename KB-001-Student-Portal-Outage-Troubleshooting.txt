@@ -1,0 +1,27 @@
+Knowledge Base Article: Student Portal Access Issue
+
+Issue:
+Students may report that they cannot access the university student portal.
+
+Symptoms:
+- Student is connected to Wi-Fi.
+- Student has normal Internet connectivity.
+- Main university website is accessible.
+- Student portal is inaccessible.
+- Multiple students may experience the same issue.
+- Issue may occur across multiple campus locations and devices.
+
+Troubleshooting:
+1. Verify that the student's device is connected to the network.
+2. Verify that the device has an IP address and default gateway.
+3. Test connectivity to the local gateway.
+4. Test Internet connectivity.
+5. Test DNS resolution.
+6. Ask whether other users and devices are experiencing the same issue.
+7. Determine whether other university websites/services are working.
+
+Resolution:
+If multiple users and devices are affected while general Internet connectivity is working, the issue may be a university service outage. Escalate the incident to the appropriate IT application/services team.
+
+Important:
+Do not make unnecessary changes to the user's network configuration when evidence indicates that the user's device and network connection are functioning normally.
